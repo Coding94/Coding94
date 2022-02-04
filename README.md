@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giulio Giudice</h1>
-<h3 align="center">A passionate Junior Front-end developer from Palermo,Sicily</h3>
+<h3 align="center">A passionate Junior Front-end developer from Palermo,Italy</h3>
 
 - 🌱 I’m currently learning **Angular**
 
