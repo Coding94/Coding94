@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋👽 I'm Giulio Giudice</h1>
+<h1 align="center">Hi 👋👽</h1>
+align="center"![HelloWorldGIF](https://user-images.githubusercontent.com/86245573/152951252-bbc0d393-e0ac-4f75-ab21-2cbe576b8ad9.gif)
+<h2 align="center">I'm Giulio Giudice</h2>
 <h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
 <h3 align="center"> I love art, nature, writing code and solving problems</h3>
 <br>
@@ -9,7 +11,6 @@
 
 - ⚡ Fun fact **I love Custom Keyboard and 80's retro game!**
 
-![HelloWorldGIF](https://user-images.githubusercontent.com/86245573/152951252-bbc0d393-e0ac-4f75-ab21-2cbe576b8ad9.gif)
 
 
 <h3 align="left">Connect with me:</h3>
