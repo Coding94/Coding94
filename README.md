@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giulio Giudice</h1>
-<h3 align="center">A passionate Junior Front-end developer from Palermo,Italy</h3>
-<h2 align="center"> I love art, nature, writing code and solving problems</h2>
+<h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
+<h3 align="center"> I love art, nature, writing code and solving problems</h3>
 
 - 🌱 I’m currently learning **Angular & SCSS**
 
