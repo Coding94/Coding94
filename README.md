@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giulio Giudice</h1>
 <h3 align="center">A passionate Junior Front-end developer from Palermo,Italy</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular & SCSS**
 
 - 📫 How to reach me **ggiudice94@gmail.com**
 
