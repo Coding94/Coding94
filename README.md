@@ -1,13 +1,16 @@
 <h1 align="center">Hi! 🖖👽 I'm Giulio Giudice</h1>
 <h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
-<h3 align="center"> I love art, nature, writing code and solving problems</h3>
+<h3 align="center"> I love art, nature, writing code and solving problems ⌨️💻</h3>
 <br>
+
+![CatTypingGIF](https://user-images.githubusercontent.com/86245573/152952037-cf8440b7-ea31-414a-9539-ca452a56a475.gif)
+
 
 - 🌱 I’m currently learning **Angular & SCSS**
 
 - 📫 How to reach me **ggiudice94@gmail.com**
 
-- ⚡ Fun fact **I love Custom Keyboard and 80's retro game!**
+- ⚡ Fun fact  **I love Custom Keyboard and 80's retro game!**
 
 
 
