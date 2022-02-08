@@ -6,7 +6,6 @@
 
 ![CatTypingGIF](https://user-images.githubusercontent.com/86245573/152953097-29ceac45-072b-430f-8970-8dab6e8df656.gif)
 
-<br>
 
 - 🌱 I’m currently learning **Angular & SCSS**
 
