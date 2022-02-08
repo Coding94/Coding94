@@ -2,6 +2,7 @@
 <br>
 <h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
 <h3 align="center"> I love art, nature, writing code and solving problems</h3>
+<br>
 
 - 🌱 I’m currently learning **Angular & SCSS**
 
