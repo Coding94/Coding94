@@ -9,6 +9,9 @@
 
 - ⚡ Fun fact **I love Custom Keyboard and 80's retro game!**
 
+![HelloWorldGIF](https://user-images.githubusercontent.com/86245573/152951252-bbc0d393-e0ac-4f75-ab21-2cbe576b8ad9.gif)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giulio-giudice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giulio-giudice" height="30" width="40" /></a>
