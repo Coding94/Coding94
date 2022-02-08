@@ -2,10 +2,9 @@
 <h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
 <h3 align="center"> I love art, nature, writing code and solving problems</h3>
 <br>
-
-<h2 align="center">![CatTypingGIF](https://user-images.githubusercontent.com/86245573/152952037-cf8440b7-ea31-414a-9539-ca452a56a475.gif)</h2>
-
-
+<br>
+[CatTypingGIF](https://user-images.githubusercontent.com/86245573/152952037-cf8440b7-ea31-414a-9539-ca452a56a475.gif)
+<br>
 - 🌱 I’m currently learning **Angular & SCSS**
 
 - 📫 How to reach me **ggiudice94@gmail.com**
