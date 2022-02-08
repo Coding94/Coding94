@@ -1,6 +1,6 @@
-<h1 align="center">Hi! 🖖👽 I'm Giulio Giudice</h1>
-<h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
-<h3 align="center"> I love art, nature, writing code and solving problems</h3>
+<h1>Hi! 🖖👽 I'm Giulio Giudice</h1>
+<h2>A passionate Junior Front-end developer from Palermo,Italy</h2>
+<h3> I love art, nature, writing code and solving problems</h3>
 <br>
 <br>
 <h2>Look at me when I study!</h2>
