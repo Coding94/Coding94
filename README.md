@@ -3,10 +3,7 @@
 <h3> I love art, nature, writing code and solving problems</h3>
 <br>
 <br>
-<h2>Look at me when I study!</h2>
-
 ![CatTypingGIF](https://user-images.githubusercontent.com/86245573/152952751-5f18d892-1374-4dd8-9890-feb452bb47c5.gif)
-<p>I'm not joking </p>
 <br>
 - 🌱 I’m currently learning **Angular & SCSS**
 
