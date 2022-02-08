@@ -6,11 +6,11 @@
 ![CatTypingGIF](https://user-images.githubusercontent.com/86245573/152953097-29ceac45-072b-430f-8970-8dab6e8df656.gif)
 
 
-- 🌱 I’m currently learning **Angular & SCSS**
+ 🌱 I’m currently learning **Angular & SCSS**
 
-- 📫 How to reach me **ggiudice94@gmail.com**
+ 📫 How to reach me **ggiudice94@gmail.com**
 
-- ⚡ Fun fact  **I love Custom Keyboard and 80's retro game!**
+ ⚡ Fun fact  **I love Custom Keyboard and 80's retro game!**
 
 
 
