@@ -2,7 +2,6 @@
 <h2>A passionate Junior Front-end developer from Palermo,Italy</h2>
 <h3> I love art, nature, writing code and solving problems</h3>
 <br>
-<br>
 
 ![CatTypingGIF](https://user-images.githubusercontent.com/86245573/152953097-29ceac45-072b-430f-8970-8dab6e8df656.gif)
 
