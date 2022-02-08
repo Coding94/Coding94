@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋👽 I'm Giulio Giudice</h1>
-<h2><![HelloWorldGIF](https://user-images.githubusercontent.com/86245573/152950813-55b601c6-87a8-4d90-898c-9159cc039234.gif)
-/h2>
 <h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
 <h3 align="center"> I love art, nature, writing code and solving problems</h3>
 <br>
