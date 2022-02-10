@@ -9,7 +9,7 @@
 
  📫 How to reach me : **ggiudice94@gmail.com**
 
- ⚡ Fun fact : **I love Custom Keyboard and 80's retro game!**
+ ⚡ Fun fact : **I love to customize mechanical keyboard and play 80's retro game!**
 
 
 <h3 align="left">Connect with me:</h3>
