@@ -6,8 +6,8 @@
 
 </p>
 
-<h1 align="center">Hi! 🖖👽 Giulio here!</h1>
-<h1 align="center">Welcome to my GitHub page!</h1>
+<h3 align="center">Hi! 🖖👽 Giulio here!</h3>
+<h3 align="center">Welcome to my GitHub page!</h3>
 <h3 align="center">I'm a passionate Junior Front-end developer from Palermo,Italy</h3>
 <h4 align="center"> I love art, nature, writing code and solving problems!</h4>
 
