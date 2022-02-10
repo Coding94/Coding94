@@ -1,17 +1,14 @@
 <h1 align="center">Hi! 🖖👽 I'm Giulio Giudice</h1>
 <h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
 <h3 align="center"> I love art, nature, writing code and solving problems!</h3>
-<br>
 
 <hr>
-
-
  🌱 I’m currently learning : **Angular & SCSS**
 
  📫 How to reach me : **ggiudice94@gmail.com**
 
  ⚡ Fun fact : **I love to customize mechanical keyboards and play 80's retro games!**
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
