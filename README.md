@@ -18,8 +18,15 @@
  📫 How to reach me : **ggiudice94@gmail.com**
 
  ⚡ Fun fact : **I love to customize mechanical keyboards and play 80's retro games!**
+ <br>
+ <br>
  
-<br>
+ <p align="center">
+
+  <img width="200" src="https://66.media.tumblr.com/tumblr_mauaez2COG1rfjowdo1_500.gif">
+
+</p>
+ 
 <br>
 <br>
 
@@ -43,6 +50,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
 
 
 
