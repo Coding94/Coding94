@@ -4,9 +4,10 @@
 
 </p>
 
-<h1 align="center">Hi! 🖖👽 I'm Giulio Giudice</h1>
-<h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
-<h3 align="center"> I love art, nature, writing code and solving problems!</h3>
+<h1 align="center">Hi! 🖖👽 Giulio's here!</h1>
+<h1 align="center">Welcome to my GitHub page!</h1>
+<h3 align="center">I'm a passionate Junior Front-end developer from Palermo,Italy</h3>
+<h4 align="center"> I love art, nature, writing code and solving problems!</h4>
 
 <br>
 <br>
@@ -24,10 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/giulio-giudice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giulio-giudice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giulio-giudice" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="giulio-giudice"  width="100" /></a>
+  <a href="https://www.instagram.com/giulio_giudice/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="giulio-giudice" width="110" /></a>
 </p>
 
-
+<br>
 
 
 ### 🚀 My Tools:
