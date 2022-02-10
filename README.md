@@ -3,6 +3,7 @@
 <h3 align="center"> I love art, nature, writing code and solving problems!</h3>
 <br>
 
+<hr>
 
 
  🌱 I’m currently learning : **Angular & SCSS**
