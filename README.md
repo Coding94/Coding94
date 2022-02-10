@@ -1,3 +1,9 @@
+<p align="center">
+
+  <img width="200" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+
+</p>
+
 <h1 align="center">Hi! 🖖👽 I'm Giulio Giudice</h1>
 <h2 align="center">A passionate Junior Front-end developer from Palermo,Italy</h2>
 <h3 align="center"> I love art, nature, writing code and solving problems!</h3>
@@ -20,6 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/giulio-giudice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giulio-giudice" height="30" width="40" /></a>
 </p>
+
 
 
 
